@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "webGL4399Demo",
+"dataUrl": "webGL4399.data.unityweb",
+"wasmCodeUrl": "webGL4399.wasm.code.unityweb",
+"wasmFrameworkUrl": "webGL4399.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
